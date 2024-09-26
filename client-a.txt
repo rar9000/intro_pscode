@@ -8,13 +8,13 @@
 5. If the player’s guess is correct:
        - Print “You guessed correctly!” and end the game
    If the player’s guess is too high:  
-       - print “Too high! Guess again”
+       - Print “Too high! Guess again”
        - Decrease the number of chances by 1
    If the player’s guess is too low:
-       -  print “Too low! Guess again”
+       - Print “Too low! Guess again”
        - Decrease the number of chances by 1
    If the player runs out of chances:
        - Print “Game over! The correct number was [correct number]”
-6. Repeat (5.) until the user either guesses the number or runs out of guesses
+6. Repeat (4. and 5.) until the user either guesses the number or runs out of guesses
 7. End the program
 
