@@ -1,4 +1,19 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
+1. Start the program.
+2. The program generates a random number between 1 and 10 
+3. Set the number of chances to 3
+4. Ask the player to guess the number
+5. If the player’s guess is correct:
+       - Print “You guessed correctly!” and end the game
+   If the player’s guess is too high:  
+       - print “Too high! Guess again”
+       - Decrease the number of chances by 1
+   If the player’s guess is too low:
+       -  print “Too low! Guess again”.
+       - Decrease the number of chances by 1
+   If the player runs out of chances:
+       - Print “Game over! The correct number was [computer’s chosen number]”
+6. End the program
 
