@@ -1,10 +1,9 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-1. Start the program
-2. Set scanned amount at 0
+1. Start the program 
 2. Set the count for each scan to 2 
 3. While the scanned amount is less than 50:
    - Print the current count
    - Add 2 to the scanned amount after each scan 
-4. End the program and reset count 
+4. End the program and reset count to 0

@@ -4,20 +4,19 @@
 1. Start the program
 2. Set the starting position of the customer at their current location 
 3. Ask the customer where they would like to go
-4. Tell the customer which way to walk:
+4. Tell the customer which way to begin walking, either:
    - north
    - south 
    - east
    - west
-5. If they go the wrong way:
-     - Tell the customer to move more north
-     - Tell the customer to move more south
-     - Tell the customer to move more east
-     - Tell the customer to move more west
-   If they are heading the correct way but have have not arrived:
+5. While they are heading the correct way but have have not arrived:
      - Tell the customer to keep walking straight
-     - When they reach the correct location say "You have arrived"
-6. Keep repeating until the customer reaches the target location
+   If they go the wrong way:
+     - Tell the customer to move more north
+     - Or tell the customer to move more south
+     - Or tell the customer to move more east
+     - Or tell the customer to move more west
+6. When they reach the correct location say "You have arrived"
 7. End the program
 
 
